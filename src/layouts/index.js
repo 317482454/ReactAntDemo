@@ -94,8 +94,8 @@ export default class BasicLayout extends Component {
                 </span>
               </Dropdown>
               <div className={styles.divHover}>
-                <Badge style={{'margin-top': '-6px'}} count={51}>
-                  <Icon style={{fontSize: '14px', 'padding-right': '4px'}} type="bell"/>
+                <Badge style={{'marginTop': '-6px'}} count={51}>
+                  <Icon style={{fontSize: '14px', 'paddingRight': '4px'}} type="bell"/>
                 </Badge>
               </div>
             </Header>
